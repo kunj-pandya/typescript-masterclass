@@ -64,3 +64,5 @@ let move: Direction = "up";
 // move = "forward"; ❌ error
 
 console.log(move); // up
+
+export { } ;
