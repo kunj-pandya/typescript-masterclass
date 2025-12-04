@@ -65,4 +65,4 @@ let move: Direction = "up";
 
 console.log(move); // up
 
-// export { } ;
+export { };
