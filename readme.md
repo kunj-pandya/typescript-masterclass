@@ -12,13 +12,9 @@ This repo documents my TypeScript learning journey — including:
 - TypeScript with real-world use cases
 - Common interview questions and practice snippets
 
-## 📌 Each topic folder contains:
+## notes
 
-| File | Purpose |
-|------|---------|
-| `index.ts` | Working example code |
-| `notes.md` | Explanation + JS vs TS comparison + examples |
-
+- All detailed notes for this repository are available in the [docs](./docs/) folder.
 
 ## ✨ About the Author
 
