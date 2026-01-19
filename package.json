@@ -1,0 +1,26 @@
+{
+  "name": "typescript-masterclass",
+  "version": "1.0.0",
+  "description": "A personal learning repository to explore and practice **TypeScript** — covering everything from basic syntax to advanced concepts, along with small examples, notes, and interview questions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunj-pandya/typescript-masterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunj-pandya/typescript-masterclass/issues"
+  },
+  "homepage": "https://github.com/kunj-pandya/typescript-masterclass#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
