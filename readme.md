@@ -24,8 +24,6 @@ src/
 │
 ├── functions/
 │   ├── function-basics.ts
-│   ├── function-types.ts
-│   ├── optional-default-parameters.ts
 │
 ├── objects/
 │   ├── object-types.ts
