@@ -22,12 +22,13 @@ src/
 │   ├── types.ts
 │   ├── type-inference.ts
 │
-├── functions/
-│   ├── function-basics.ts
-│
-├── objects/
-│   ├── object-types.ts
-│   ├── readonly-properties.ts
+├── functions-and-objects/
+│   ├── function.ts
+|   ├── object.ts 
+|
+├── enums-tuples/
+│   ├── enums.ts
+│   ├── tuples.ts
 │
 ├── aliases-unions/
 │   ├── type-alias.ts
@@ -44,15 +45,12 @@ src/
 │   ├── generic-functions.ts
 │   ├── generic-constraints.ts
 │
-├── enums-tuples/
-│   ├── enums.ts
-│   ├── tuples.ts
-│
 ├── advanced/
 │   ├── type-guards.ts
 │   ├── keyof-typeof.ts
 │   ├── conditional-types.ts
 │
+
 ```
 
 ## ✨ About the Author
