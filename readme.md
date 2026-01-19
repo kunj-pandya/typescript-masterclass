@@ -12,9 +12,50 @@ This repo documents my TypeScript learning journey — including:
 - TypeScript with real-world use cases
 - Common interview questions and practice snippets
 
-## notes
+## 📁 Folder Structure
 
-- All detailed notes for this repository are available in the [docs](./docs/) folder.
+```
+src/
+│
+├── basics/
+│   ├── introduction.ts
+│   ├── types.ts
+│   ├── type-inference.ts
+│
+├── functions/
+│   ├── function-basics.ts
+│   ├── function-types.ts
+│   ├── optional-default-parameters.ts
+│
+├── objects/
+│   ├── object-types.ts
+│   ├── readonly-properties.ts
+│
+├── aliases-unions/
+│   ├── type-alias.ts
+│   ├── union-types.ts
+│   ├── intersection-types.ts
+│
+├── interfaces/
+│   ├── interface-basics.ts
+│   ├── extending-interfaces.ts
+│   ├── readonly-interfaces.ts
+│
+├── generics/
+│   ├── generic-basics.ts
+│   ├── generic-functions.ts
+│   ├── generic-constraints.ts
+│
+├── enums-tuples/
+│   ├── enums.ts
+│   ├── tuples.ts
+│
+├── advanced/
+│   ├── type-guards.ts
+│   ├── keyof-typeof.ts
+│   ├── conditional-types.ts
+│
+```
 
 ## ✨ About the Author
 
