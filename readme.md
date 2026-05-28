@@ -24,8 +24,8 @@ src/
 │
 ├── functions-and-objects/
 │   ├── function.ts
-|   ├── object.ts 
-|
+│    ├── object.ts 
+│ 
 ├── enums-tuples/
 │   ├── enums.ts
 │   ├── tuples.ts
@@ -36,9 +36,12 @@ src/
 │   ├── intersection-types.ts
 │
 ├── interfaces/
-│   ├── interface-basics.ts
-│   ├── extending-interfaces.ts
-│   ├── readonly-interfaces.ts
+│   ├── interface.ts
+│ 
+├── classes-oop/
+│   ├── 
+│   ├── 
+│   ├── 
 │
 ├── generics/
 │   ├── generic-basics.ts
